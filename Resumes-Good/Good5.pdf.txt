@@ -1,0 +1,114 @@
+Ian Macalinao
+
+(cid:48) http://ian.pw  (cid:226) me@ian.pw  (cid:174) simplyianm 
+
+(cid:227) simplyianm 
+
+(cid:168) (530) 426-2146
+
+(cid:404) education
+University of Texas at Austin
+B.S, Computer Science & 
+Mathematics
+3.8 GPA, Graduating May 2018
+
+(cid:206) skills
+Languages: Go, JavaScript, Ruby, 
+Python, Java, PHP, SQL, HTML/CSS
+
+Technologies: Unix/Linux, Rails, 
+Node.js, React/Redux, Angular, 
+Hadoop, AWS, Cassandra
+
+(cid:191) projects
+HackDFW
+Founder and director of technology 
+of the first and largest student 
+hackathon in Dallas. Built a 
+hackathon management system and 
+an online scavenger hunt using React 
+and Redux.
+
+CyanTranslate
+Powerful system-wide text 
+manipulation on CyanogenMod; 
+modified the Android OS.
+
+Colleged.net
+College textbook price comparison 
+website built on MEAN. Received 
+2000 unique visitors in January 2015.
+
+New Liberty
+Modded Java Minecraft server using 
+reverse-engineered code. Peaked at 
+3500 unique monthly players.
+
+(cid:194) work
+Google 
+Software (Site Reliability) Engineering Intern
+•  Developed a system to detect production anomalies and alert SREs
+
+ 
+
+Summer 2016 (present)
+
+Uber 
+Software Engineering Intern, UberEATS
+•  Implemented a per-restaurant maximum delivery radius, resulting in a 
+
+Spring 2016
+
+ 
+
+~7% increase in gross bookings
+
+•  Helped develop a staging environment for EATS-specific services
+•  Increased stability of services as UberEATS grew from 1 to 15 cities by 
+
+improving logging, performing load tests, and adding CI
+
+ResearchNow 
+ 
+Software Engineering Intern
+•  Constructed a load testing framework in Scala using Gatling to generate 
+
+Fall 2015
+
+dummy ad impression data for testing a MapReduce pipeline
+
+•  Developed an ETL pipeline to aggregate data from Hadoop HDFS using 
+
+Apache Spark and Cloudera Impala, resulting in a ~5x speed improvement 
+over the existing Pig/Hive/Oozie pipeline
+
+IFTTT 
+ 
+Software Engineering Intern
+•  Reworked a reporting system to work on-demand using Amazon Redshift, 
+
+Summer 2015
+
+resulting in a 1 hour decrease in total overnight ETL job duration
+
+•  Migrated push notifications to AWS SNS, saving 98% in push-related costs
+•  Developed various web pages, including the OSS page (ifttt.github.io)
+
+AutoLotto 
+ 
+Full Stack Software Engineer
+•  Refactored a Node.js backend to use ES2016 via Babel
+•  Wrote a cron-like system to automatically purchase Powerball tickets using 
+
+April - August 2015
+
+Node.js (Cheerio) and Stripe
+
+Bireosoft 
+Freelance Java Developer
+•  Ran custom Minecraft mods on CentOS and Debian servers
+•  Reverse engineered obfuscated Java using a decompiler and reflection
+
+June 2011 - August 2014
+
+

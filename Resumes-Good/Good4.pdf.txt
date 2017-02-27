@@ -1,0 +1,104 @@
+Matt Condon 
+
+Web Developer, Programmer, Engineer
+
+
+http://mat.tc 
+http://github.com/Shrugs 
+
+m@cond.in
+
+	
+
+Software Engineering Intern (Developer Platform), Google; New York – May 2015 - July 2015
+
+
+	 At Google I worked on Swift quickstarts and sample code for developers, wrote software for a 
+bullet time rig made of Nexus 6 phones, and introduced Apps Script to the wonderful world of 
+modern web development.
+
+
+	 hackNY Mentor, hackNY; New York – Summer 2015
+
+
+	 I mentored a group of 34 hackNY Fellows as they thrived in the NY tech scene. We spent the 
+summer visiting startups, exploring the city, scavenger hunting, and hanging out.
+
+
+	Software Engineering Intern, IFTTT; San Francisco – February 2015 - May 2015
+
+	At IFTTT I worked on the platform team, building the partner-facing interface, including some 
+dope analytics and metrics. I also shipped Two Factor Auth and tons of minor ﬁxes.
+
+
+	hackNY Fellow, hackNY; New York – Summer 2014
+
+	 I lived and worked in New York for a summer, hanging out with an amazing set of people and 
+mentors. We talked with leaders in the NY tech scene and did awesome stuﬀ 24/7.
+
+
+	
+
+Software Engineering Intern; Magnetic, York – May 2014 - August 2014
+
+
+	 Another intern and I built out a new method of gleaning context from pageviews. Relevant 
+
+information is automatically harvested when a user loads the page, massively increasing the 
+amount and quality of information Magnetic can use to do intelligent ad bidding.
+
+
+	 Software Engineering Intern, Grooveshark; Gainesville, Florida – Summer 2013
+
+	 At Grooveshark, I managed and developed a user-friendly analytics dashboard while living 
+
+and working with some of the best people I’ve known.
+
+
+Side Projects	
+	
+
+Askey – http://askeyapp.com
+
+A Very Important Keyboard App that turns drawings into ASCII text perfect for sending via a 
+variety of iOS messaging applications.
+
+
+	
+	
+
+ﬁvestar – http://ﬁvestar.io
+
+ﬁvestar highlights the best Amazon products, broken down by budget. It’ll save you literally 
+seconds every time you want to buy something on Amazon but don’t want to research prices.
+
+
+Hackathon Prizes	
+
+hackNY, MHacks, PennApps, Comedy Hack Day, LAHacks, Bitcamp, AngelHack, Video Hack 
+Day, GeauxHack, HackMIT
+
+
+Skills	
+	
+	
+	
+	
+	
+	
+
+Frontend VanillaJS, React, Polymer
+
+Backend Python/Flask, Ruby/Rails, Node/Express
+
+iOS Swift, Carthage, SnapKit/Masonry
+
+Databases PostgreSQL, MySQL, MongoDB, Redis
+
+Deployment AWS, Heroku, DigitalOcean, Docker
+
+Data pandas, numpy, iPython
+
+Hardware IoT, Arduino, Intel Edison, FPGA
+
+

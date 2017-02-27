@@ -1,0 +1,98 @@
+Christopher Su
+hello@christopher.su · github.com/csu
+
+EDUCATION
+University of Washington
+B.S. Computer Science. Dean’s List (every quarter).
+
+WORK EXPERIENCE
+Microsoft, Software Engineer
+
+• Joined the Azure: Hyper-scale Compute team in Redmond, WA.
+• Working on Service Fabric, a distributed systems platform, in C++.
+
+Google, Software Engineering Intern
+
+Sept. 2013 – Mar. 2016
+
+Apr. 2016 – Present
+
+Jun. 2015 – Sept. 2015
+
+• Joined the AdWords: DoubleClick Search team in Kirkland, WA.
+• Migrated web application components from Java and GWT to Dart and AngularDart.
+
+Microsoft, Software Engineer Intern
+
+Mar. 2015 – Jun. 2015
+
+• Joined the Azure: Hyper-scale Compute team in Redmond, WA.
+• Worked on Service Fabric, a distributed systems platform, in C# and C++.
+
+Cisco, Software Engineer Intern
+
+Jun. 2014 – Sept. 2014
+
+• Joined the Data Virtualization team in San Jose, CA. Campus Ambassador for UW.
+• Created parsers and interfaces to analyze data from logs and archive ﬁles.
+
+PROJECTS
+Modular API
+Python, Flask, JavaScript
+
+(more at https://christopher.su/projects)
+
+Batch SMS
+Python, SQL, Twilio API
+
+from subcomponents in Python.
+
+• A framework for quickly building REST APIs
+• Reﬂectively imports submodule routes.
+• Crude dependency injection system.
+
+to large numbers of recipients
+
+• A library for sending batches of text messages
+• Handles API rate limiting and to/from number
+
+association.
+
+NetViz
+JavaScript, D3.js, Socket.io
+
+“It’s Showtime”
+Python, Flask, Postgres, Less
+
+• A tool for visualizing network/graph data in
+
+real-time from streamed logs.
+
+• Suggests movies by comparing users’ tastes to
+
+those of thousands of professional critics.
+
+SKILLS
+Programming (Proﬁcient)
+Programming (Familiar)
+Libraries/Platforms
+Markup/Templating
+Data/Databases
+
+ACTIVITIES
+DubHacks
+UW Hackers
+
+Java, Python, JavaScript, C, C++, Dart
+Go, Scheme/Racket, C#, Haskell, Prolog, Ruby, Fortran
+Node.js, Express, Flask, jQuery, D3, AngularDart, Socket.io
+HTML, CSS, Liquid, Jinja, Jade, Sass, Less, LATEX
+SQL, XQuery, Pig, Machine Learning, SQL Server, MongoDB
+
+Hackathon at the UW
+Student Developer Club
+
+Organizer (2014-2016)
+Student Ofﬁcer (2014-2015)
+
+
